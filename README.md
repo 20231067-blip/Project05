@@ -4,3 +4,4 @@
 
 Team Leader: <조현빈>
 Team Leader: <20251066>
+Project 05 version1 completed
